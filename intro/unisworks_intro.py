@@ -8,7 +8,7 @@ def unisworks(work):
 
         <!-- SEO -->
         <title>{}</title>
-        <meta name="description" content="UNIS Works - {}, by {}">
+        <meta name="description" content="{}, by {}">
 
         <!-- URL CANONICAL -->
         <!-- <link rel="canonical" href="http://your-url.com/"> -->
